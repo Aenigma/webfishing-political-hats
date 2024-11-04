@@ -4,3 +4,6 @@
 /local
 
 *.gdc
+icon.png.import
+GDWeave/
+GDWeave.Dumper/

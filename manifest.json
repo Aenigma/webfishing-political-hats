@@ -4,10 +4,9 @@
     "Dependencies": [
         "Sulayre.Lure"
     ],
-    "website_url": "https://github.com/Aenigma/webfishing-political-hats",
     "Metadata": {
         "Name": "Political Hats",
-        "Description": "Hats to show your politics!",
+        "Description": "Hats to show who you voted for!",
         "Author": "Aenigma",
         "Version": "1.0.0"
     }
