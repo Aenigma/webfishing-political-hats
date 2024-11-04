@@ -1,0 +1,14 @@
+{
+    "Id": "Aenigma.Political Hats",
+    "PackPath": "hats.pck",
+    "Dependencies": [
+        "Sulayre.Lure"
+    ],
+    "website_url": "https://github.com/Aenigma/webfishing-political-hats",
+    "Metadata": {
+        "Name": "Political Hats",
+        "Description": "Hats to show your politics!",
+        "Author": "Aenigma",
+        "Version": "1.0.0"
+    }
+}
